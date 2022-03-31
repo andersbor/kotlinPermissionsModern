@@ -13,7 +13,6 @@ import com.google.android.material.snackbar.Snackbar
 import dk.easj.anbo.permissionsmodern.databinding.FragmentFirstBinding
 
 class FirstFragment : Fragment() {
-
     private var _binding: FragmentFirstBinding? = null
     private val binding get() = _binding!!
 
